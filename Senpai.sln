@@ -1,0 +1,23 @@
+
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{BE73DBBD-8820-4100-B956-6F4FA33C89F3}") = "Senpai", "src/Senpai/Senpai.csproj", "{37781F83-4A34-466E-97C6-93B73EDDF26A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+		Deploy|Any CPU = Deploy|Any CPU
+		DeployAndRun|Any CPU = DeployAndRun|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{37781F83-4A34-466E-97C6-93B73EDDF26A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{37781F83-4A34-466E-97C6-93B73EDDF26A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{37781F83-4A34-466E-97C6-93B73EDDF26A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{37781F83-4A34-466E-97C6-93B73EDDF26A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{37781F83-4A34-466E-97C6-93B73EDDF26A}.Deploy|Any CPU.ActiveCfg = Deploy|Any CPU
+		{37781F83-4A34-466E-97C6-93B73EDDF26A}.Deploy|Any CPU.Build.0 = Deploy|Any CPU
+		{37781F83-4A34-466E-97C6-93B73EDDF26A}.DeployAndRun|Any CPU.ActiveCfg = DeployAndRun|Any CPU
+		{37781F83-4A34-466E-97C6-93B73EDDF26A}.DeployAndRun|Any CPU.Build.0 = DeployAndRun|Any CPU
+	EndGlobalSection
+EndGlobal
+
