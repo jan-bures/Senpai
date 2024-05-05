@@ -4,9 +4,9 @@
   "author": "munix",
   "name": "Senpai",
   "description": "UwU",
-  "source": "",
+  "source": "https://github.com/jan-bures/Senpai",
   "version": "1.0.0",
-  "version_check": "",
+  "version_check": "https://raw.githubusercontent.com/jan-bures/Senpai/main/plugin_template/swinfo.json",
   "ksp2_version": {
     "min": "0.2.1",
     "max": "*"
